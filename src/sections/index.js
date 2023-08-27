@@ -7,7 +7,7 @@ import CustomerReviews from "./CustomerReviews";
 import Suscribe from "./Suscribe";
 import Footer from "./Footer";
 
-export default {
+export {
 	Hero,
 	PopularProduct,
 	SuperQuality,
